@@ -60,14 +60,14 @@ img {
 
 /* unvisited link */
 a:link {
-  color: black;
+  color: red;
   text-decoration: none;
   font-weight: bold;
 }
 
 /* visited link */
 a:visited {
-  color: black;
+  color: red;
   text-decoration: none;
 }
 
