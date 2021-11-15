@@ -20,7 +20,7 @@ img {
 .title {
 	font-family: "frauncesblack";
 	font-size: 32px;
-	line-height: .8;
+	line-height: 1;
 	text-align: right;
 	margin: 0 auto;
 	padding: 1%;
