@@ -8,13 +8,13 @@ body {
 
 /* unvisited link */
 a:link {
-  color: red;
+  color: #F07D90;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: red;
+  color: #F07D90;
   text-decoration: none;
 }
 
@@ -25,5 +25,5 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: red;
+  color: #F07D90;
 }
