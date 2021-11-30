@@ -3,7 +3,7 @@ body {
 	padding-top: 1%;
 	background: black;
 	color: white;
-	font-family: "Book Antiqua";
+	font-family: "Book Antiqua", Georgia, Times New Roman;
 }
 
 /* unvisited link */
