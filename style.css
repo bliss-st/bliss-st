@@ -12,13 +12,13 @@ blockquote {
 
 /* unvisited link */
 a:link {
-  color: white;
+  color: #FF9C9C;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: white;
+  color: #FF9C9C;
   text-decoration: none;
 }
 
