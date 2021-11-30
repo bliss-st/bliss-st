@@ -15,22 +15,26 @@ blockquote {
 a:link {
   color: #FF9C9C;
   text-decoration: none;
+  padding-right: 1.6px;
 }
 
 /* visited link */
 a:visited {
   color: #FF9C9C;
   text-decoration: none;
+  padding-right: 1.6px;
 }
 
 /* mouse over link */
 a:hover {
   color: #FF9C9C;
   font-weight: bold;
+  padding-right: 1.6px;
 }
 
 /* selected link */
 a:active {
   color: white;
   text-decoration: none;
+  padding-right: 1.6px;
 }
