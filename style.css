@@ -3,7 +3,7 @@ body {
 	padding-top: .08%;
 	background: black;
 	color: white;
-	font-family: Arial, sans-serif;
+	font-family: Georgia, serif;
 	line-height: 1.3;
   margin-right:30px;
 }
@@ -13,21 +13,21 @@ blockquote {
 
 /* unvisited link */
 a:link {
-  color: #FF9C9C;
+  color: skyblue;
   text-decoration: none;
   padding-right: 1.6px;
 }
 
 /* visited link */
 a:visited {
-  color: #FF9C9C;
+  color: skyblue;
   text-decoration: none;
   padding-right: 1.6px;
 }
 
 /* mouse over link */
 a:hover {
-  color: #FF9C9C;
+  color: skyblue;
   font-weight: bold;
   padding-right: 1.6px;
 }
