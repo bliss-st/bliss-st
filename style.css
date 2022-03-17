@@ -13,21 +13,21 @@ blockquote {
 
 /* unvisited link */
 a:link {
-  color: skyblue;
+  color: red;
   text-decoration: none;
   padding-right: 1.6px;
 }
 
 /* visited link */
 a:visited {
-  color: skyblue;
+  color: red;
   text-decoration: none;
   padding-right: 1.6px;
 }
 
 /* mouse over link */
 a:hover {
-  color: skyblue;
+  color: red;
   font-weight: bold;
   padding-right: 1.6px;
 }
