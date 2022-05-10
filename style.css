@@ -41,7 +41,7 @@ a:visited {
 /* mouse over link */
 a:hover {
   font-weight: bold;
-  color: whitesmoke;
+  color: darkslategrey;
   padding-right: 1px;
 }
 
