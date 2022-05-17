@@ -2,7 +2,7 @@
   position: fixed;
   top: 0px;
   left: 0px;
-  background: darkblue;
+  background: darkslategrey;
   color: white;
   width: 100%;
   text-align: center;
@@ -14,7 +14,7 @@ body {
   position: absolute;
   padding: 1%;
 	background: ghostwhite;
-	color: darkblue;
+	color: darkslategrey;
 	font-family: 'Radio Canada', monospace;
 	line-height: 1.5;
   max-width: max-content;
@@ -27,14 +27,14 @@ body {
 /* unvisited link */
 a:link {
   font-weight: bold;
-  color: darkblue;
+  color: darkolivegreen;
   padding-right: 1px;
 }
 
 /* visited link */
 a:visited {
   font-weight: bold;
-  color: lightslategrey;
+  color: darkolivegreen;
   padding-right: 1px;
 }
 
@@ -48,7 +48,7 @@ a:hover {
 /* selected link */
 a:active {
   font-weight: bold;
-  color: darkblue;
+  color: darkolivegreen;
   padding-right: 1px;
 }
 
