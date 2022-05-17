@@ -34,14 +34,14 @@ a:link {
 /* visited link */
 a:visited {
   font-weight: bold;
-  color: darkslategrey;
+  color: dimgrey;
   padding-right: 1px;
 }
 
 /* mouse over link */
 a:hover {
   font-weight: bold;
-  color: darkslategrey;
+  color: darkgrey;
   padding-right: 1px;
 }
 
