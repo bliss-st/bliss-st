@@ -27,14 +27,14 @@ body {
 /* unvisited link */
 a:link {
   font-weight: bold;
-  color: darkolivegreen;
+  color: darkslategrey;
   padding-right: 1px;
 }
 
 /* visited link */
 a:visited {
   font-weight: bold;
-  color: darkolivegreen;
+  color: darkslategrey;
   padding-right: 1px;
 }
 
@@ -48,7 +48,7 @@ a:hover {
 /* selected link */
 a:active {
   font-weight: bold;
-  color: darkolivegreen;
+  color: darkslategrey;
   padding-right: 1px;
 }
 
